@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RandomWordSearch",
+			"Path": "..\\Source\\RandomWordSearch.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RandomWordSearchEditor",
+			"Path": "..\\Source\\RandomWordSearchEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

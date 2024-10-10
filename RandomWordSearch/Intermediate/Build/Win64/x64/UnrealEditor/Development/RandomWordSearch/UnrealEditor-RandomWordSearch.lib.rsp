@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RandomWordSearch.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\SchoolWork\RandomWordSearch\RandomWordSearch\Intermediate\Build\Win64\x64\RandomWordSearchEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\SchoolWork\RandomWordSearch\RandomWordSearch\Intermediate\Build\Win64\x64\UnrealEditor\Development\RandomWordSearch\RandomWordSearch.cpp.obj"
+"E:\SchoolWork\RandomWordSearch\RandomWordSearch\Intermediate\Build\Win64\x64\UnrealEditor\Development\RandomWordSearch\Default.rc2.res"
+/OUT:"E:\SchoolWork\RandomWordSearch\RandomWordSearch\Intermediate\Build\Win64\x64\UnrealEditor\Development\RandomWordSearch\UnrealEditor-RandomWordSearch.lib"
