@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/SchoolWork/RandomWordSearch/RandomWordSearch/Content/RandomWordSearch/Map/WordGrid.umap"
+				"E:/SchoolWork/RandomWordSearch/RandomWordSearch/Content/RandomWordSearch/Maps/WordGrid.umap",
+				"E:/SchoolWork/RandomWordSearch/RandomWordSearch/Content/RandomWordSearch/UI/WBP_WordSearchGrid.uasset",
+				"E:/SchoolWork/RandomWordSearch/RandomWordSearch/Content/RandomWordSearch/Core/DictionaryStruct.uasset",
+				"E:/SchoolWork/RandomWordSearch/RandomWordSearch/Content/RandomWordSearch/Core/Dictionary.uasset",
+				"E:/SchoolWork/RandomWordSearch/RandomWordSearch/Content/RandomWordSearch/Core/Dictionary.uasset",
+				"E:/SchoolWork/RandomWordSearch/RandomWordSearch/Content/RandomWordSearch/Map/WordGrid.umap",
+				"E:/SchoolWork/RandomWordSearch/RandomWordSearch/Content/RandomWordSearch/UI/Grid.uasset"
 			]
 		}
 	]

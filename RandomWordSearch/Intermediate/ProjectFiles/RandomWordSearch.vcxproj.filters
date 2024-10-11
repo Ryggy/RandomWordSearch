@@ -11,6 +11,7 @@
     <None Include="..\..\Source\RandomWordSearchEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +30,12 @@
     <Filter Include="Source\RandomWordSearch">
       <UniqueIdentifier>{E22154A7-973A-366F-A7FF-BC4A8EDD789E}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\RandomWordSearch\FDictionaryStruct.cpp">
+      <Filter>Source\RandomWordSearch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomWordSearch\FDictionaryStruct.h">
+      <Filter>Source\RandomWordSearch</Filter>
+    </ClInclude>
     <None Include="..\..\Source\RandomWordSearch\RandomWordSearch.Build.cs">
       <Filter>Source\RandomWordSearch</Filter>
     </None>
@@ -36,6 +43,18 @@
       <Filter>Source\RandomWordSearch</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\RandomWordSearch\RandomWordSearch.h">
+      <Filter>Source\RandomWordSearch</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomWordSearch\WordSearchGameMode.cpp">
+      <Filter>Source\RandomWordSearch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomWordSearch\WordSearchGameMode.h">
+      <Filter>Source\RandomWordSearch</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomWordSearch\WordSearchGrid.cpp">
+      <Filter>Source\RandomWordSearch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomWordSearch\WordSearchGrid.h">
       <Filter>Source\RandomWordSearch</Filter>
     </ClInclude>
   </ItemGroup>

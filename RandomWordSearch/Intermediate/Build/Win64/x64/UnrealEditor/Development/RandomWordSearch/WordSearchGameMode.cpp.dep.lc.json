@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\source\\randomwordsearch\\wordsearchgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\intermediate\\build\\win64\\x64\\randomwordsearcheditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\randomwordsearch\\definitions.randomwordsearch.h",
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\source\\randomwordsearch\\wordsearchgamemode.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\source\\randomwordsearch\\wordsearchgrid.h",
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\intermediate\\build\\win64\\unrealeditor\\inc\\randomwordsearch\\uht\\wordsearchgrid.generated.h",
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\intermediate\\build\\win64\\unrealeditor\\inc\\randomwordsearch\\uht\\wordsearchgamemode.generated.h",
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\source\\randomwordsearch\\fdictionarystruct.h",
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\intermediate\\build\\win64\\unrealeditor\\inc\\randomwordsearch\\uht\\fdictionarystruct.generated.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

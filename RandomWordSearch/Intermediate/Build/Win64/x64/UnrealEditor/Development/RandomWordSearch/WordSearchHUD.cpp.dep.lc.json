@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\source\\randomwordsearch\\wordsearchhud.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\intermediate\\build\\win64\\x64\\randomwordsearcheditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\randomwordsearch\\definitions.randomwordsearch.h",
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\source\\randomwordsearch\\wordsearchhud.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugtextinfo.generated.h",
+            "e:\\program files (x86)\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\hud.generated.h",
+            "e:\\schoolwork\\randomwordsearch\\randomwordsearch\\intermediate\\build\\win64\\unrealeditor\\inc\\randomwordsearch\\uht\\wordsearchhud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

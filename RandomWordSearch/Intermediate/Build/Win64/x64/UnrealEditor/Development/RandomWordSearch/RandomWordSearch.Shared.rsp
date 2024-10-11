@@ -1,4 +1,5 @@
 /I "."
+/I "E:\SchoolWork\RandomWordSearch\RandomWordSearch\Intermediate\Build\Win64\UnrealEditor\Inc\RandomWordSearch\UHT"
 /I "E:\SchoolWork\RandomWordSearch\RandomWordSearch\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
